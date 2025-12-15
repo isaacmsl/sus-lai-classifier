@@ -1,0 +1,11 @@
+ipykernel==7.1.0
+pandas==2.3.3
+SQLAlchemy==2.0.45
+psycopg2-binary==2.9.11
+pyarrow==22.0.0
+matplotlib==3.10.8
+nltk==3.9.2
+spacy==3.8.11
+scikit-learn==1.8.0
+lightgbm==4.6.0
+xgboost==3.1.2
